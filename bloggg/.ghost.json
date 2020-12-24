@@ -1,0 +1,11 @@
+{
+  "development": {
+    "apiUrl": "https://medicenmonn.herokuapp.com",
+    "contentApiKey": "63d7b2ee8fd70b0a5635311e92"
+  },
+  "production": {
+    "apiUrl": "https://medicenmonn.herokuapp.com",
+    "contentApiKey": "63d7b2ee8fd70b0a5635311e92", 
+    "version": "v2"
+  }
+}
